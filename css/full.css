@@ -1,0 +1,31 @@
+body {
+    background: url('../images/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.site-content {
+	margin-top: 150px;
+}
+
+.site-content .logo{
+	width: 100%;
+    background-size: 100% 100%; 
+}
+
+.icons{
+	margin-top: 25px;
+	margin-left: 30px;
+}
+
+.icons a{
+	float: left;
+}
+
+.img-resize {
+	width: 80%;
+    background-size: 100% 100%;
+    margin-top: 20px;
+}
